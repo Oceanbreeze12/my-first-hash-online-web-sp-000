@@ -1,5 +1,5 @@
 def my_hash
-  Daisy={"name"=>"Rene"Pottery,"silevr"}
+  Daisy={"name"=>"Rene"Pottery,"silver"}
 
   
 end
